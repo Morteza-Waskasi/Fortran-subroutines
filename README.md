@@ -3,4 +3,5 @@
 
 "vdw_interactions.f90" subroutine calculates the the  For the lennard jones (LJ) potential, according to the Barker-Henderson perturbation theory. 
 For more details see: 
+
 Sarhangi, Waskasi, Hashemianzadeh and Matyushov, Phys. Chem. Chem. Phys., (2018), DOI: 10.1039/c8cp05422c. 
